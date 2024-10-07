@@ -3,7 +3,6 @@ package cristelknight.wwoo.forge;
 import cristelknight.wwoo.ExpandedEcosphere;
 import cristelknight.wwoo.config.cloth.ClothConfigScreen;
 import cristelknight.wwoo.terra.TerraInit;
-import net.minecraftforge.client.ConfigScreenHandler;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.ModList;
 import net.minecraftforge.fml.ModLoadingContext;
